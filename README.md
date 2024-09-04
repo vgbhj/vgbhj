@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <details align="center">
+---
+
+## Stats:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/VgbHj?theme=dark&font=JetBrains%20Mono)
 [![GitHub Streak](https://streak-stats.demolab.com?user=vgbhj&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-
+---
 </details>
