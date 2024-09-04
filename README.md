@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/VgbHj?theme=dark&font=JetBrains%20Mono)
 [![GitHub Streak](https://streak-stats.demolab.com?user=vgbhj&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![stats](https://github-readme-stats.vercel.app/api?username=vgbhj&show_icons=true&theme=merko&hide_border=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vgbhj)](https://github.com/anuraghazra/github-readme-stats)
+![stats](https://github-readme-stats.vercel.app/api?username=vgbhj&show_icons=true&theme=dark&hide_border=true)
 
 ---
 </details>
