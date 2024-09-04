@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <details align="center">
----
+
 
 ## Stats:
 
@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=vgbhj&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![stats](https://github-readme-stats.vercel.app/api?username=vgbhj&show_icons=true&theme=dark&hide_border=true)
 
----
+
 </details>
